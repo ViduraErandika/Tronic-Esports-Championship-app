@@ -21,11 +21,11 @@ https://bit.ly/2NgdkCA
 
 <ul>
   <li>100+ users. 👥</li> <br>
-  <code><img  src="https://github.com/ViduraErandika/Tronic-Esports-Championship-app/blob/main/Images/user.jpg"></code>
-  <li>Average of 72 daily active users throughout the competiton.</li>
-  <code><img  src="https://github.com/ViduraErandika/Tronic-Esports-Championship-app/blob/main/Images/active.jpg"></code>
-  <li>498 sessions throughout 🎉</li>
-  <code><img  src="https://github.com/ViduraErandika/Tronic-Esports-Championship-app/blob/main/Images/sessions.jpg"></code>
-  <li>100% Crash-Free users ✅</li>
-  <code><img  src="https://github.com/ViduraErandika/Tronic-Esports-Championship-app/blob/main/Images/crash.jpg"></code>
+  <code><img  src="https://github.com/ViduraErandika/Tronic-Esports-Championship-app/blob/main/Images/user.jpg"></code> <br>
+  <li>Average of 72 daily active users throughout the competiton.</li> <br>
+  <code><img  src="https://github.com/ViduraErandika/Tronic-Esports-Championship-app/blob/main/Images/active.jpg"></code> <br>
+  <li>498 sessions throughout 🎉</li> <br>
+  <code><img  src="https://github.com/ViduraErandika/Tronic-Esports-Championship-app/blob/main/Images/sessions.jpg"></code> <br>
+  <li>100% Crash-Free users ✅</li>  <br>
+  <code><img  src="https://github.com/ViduraErandika/Tronic-Esports-Championship-app/blob/main/Images/crash.jpg"></code> <br>
 </ul>
