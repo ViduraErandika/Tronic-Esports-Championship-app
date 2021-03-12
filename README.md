@@ -1,4 +1,4 @@
-# tec
+# Tronic Esports Championship app
 
 A new Flutter project.
 
