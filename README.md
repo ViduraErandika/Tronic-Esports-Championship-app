@@ -20,7 +20,7 @@ https://bit.ly/2NgdkCA
 ## *Google Analytics on App :*
 
 <ul>
-  <li>100+ users. 👥</li>
+  <li>100+ users. 👥</li> <br>
   <code><img  src="https://github.com/ViduraErandika/Tronic-Esports-Championship-app/blob/main/Images/user.jpg"></code>
   <li>Average of 72 daily active users throughout the competiton.</li>
   <code><img  src="https://github.com/ViduraErandika/Tronic-Esports-Championship-app/blob/main/Images/active.jpg"></code>
