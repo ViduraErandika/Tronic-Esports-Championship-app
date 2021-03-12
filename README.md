@@ -17,7 +17,8 @@ https://bit.ly/3p0pM6Q
 https://bit.ly/2NgdkCA
   </p>
 ## *Screens :*
-<code><img  src="https://github.com/ViduraErandika/Tronic-Esports-Championship-app/blob/main/Images/main%20screen.jpg"></code>
+
+<code><img height = 60 src="https://github.com/ViduraErandika/Tronic-Esports-Championship-app/blob/main/Images/main%20screen.jpg"></code>
 <code><img  src="https://github.com/ViduraErandika/Tronic-Esports-Championship-app/blob/main/Images/pubg.jpg"></code>
 <code><img  src="https://github.com/ViduraErandika/Tronic-Esports-Championship-app/blob/main/Images/winners.jpg"></code>
 <code><img  src="https://github.com/ViduraErandika/Tronic-Esports-Championship-app/blob/main/Images/amongus.jpg"></code>
