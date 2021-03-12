@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "126346005570",
+    "project_id": "tronicesportschallenge",
+    "storage_bucket": "tronicesportschallenge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126346005570:android:6019f8e378b5e758b0b1db",
+        "android_client_info": {
+          "package_name": "com.v_labs.tec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126346005570-ur7pp64a86ha9teh8c55spaqm5f6hhpm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByTTiJGpWvv1M1a8ThHMzpceJGBgb9aTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126346005570-ur7pp64a86ha9teh8c55spaqm5f6hhpm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
